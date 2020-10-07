@@ -1,0 +1,6 @@
+Rumus Throughput = Jumlah data yang dikirim(byte/s) dibagi waktu pengiriman(Time span) dikali 8
+                 = 22621844 : 419.924 x 8 = 430k
+
+Rumus Packet Lost = Jumlah paket yang dikirim - jumlah paket yang diterima dibagi jumlah paket yang dikirim x 100
+                  = 4890 - 4890 : 4890 x 100 = 0
+
